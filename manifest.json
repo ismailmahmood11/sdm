@@ -1,11 +1,11 @@
 {
-    "name": "semanoor",
-    "short_name": "semanoor",
+    "name": "sdm",
+    "short_name": "sdm",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Visualizing how people with different stages of diabetes see the world around us",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
