@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Visualizing how people with different stages of diabetes see the world around us",
+    "description": "Visualizing Diabetic Retinopathy",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
