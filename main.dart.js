@@ -63761,7 +63761,7 @@ if($.acL)s.as="\u0631\u0624\u064a\u0629 \u063a\u064a\u0631 \u0645\u062a\u0623\u0
 else s.as="No effect"
 s.aX()},
 Xq(){A.avF(B.BH,new A.a8q(this))},
-M(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=t.w,e=A.cm(a,g,f).w.a.a<600?B.yq:B.iO,d=Math.cos(h.ch),c=Math.sin(h.ch)
+M(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=t.w,e=A.cm(a,g,f).w.a.a<790?B.yq:B.iO,d=Math.cos(h.ch),c=Math.sin(h.ch)
 c=A.J4(A.hP(B.az,h.ax,B.P,B.aH),new A.D(d*50,c*50))
 d=h.y?1:0.00001
 s=A.cm(a,g,f).w
@@ -63799,7 +63799,7 @@ A.a8p.prototype={
 $0(){this.a.ch+=0.02},
 $S:0}
 A.a8v.prototype={
-$2(a,b){var s,r=null,q=b.a,p=q?"\u0628\u062f\u0648\u0646 \u0633\u0627\u0628\u0642 \u0627\u0646\u0630\u0627\u0631\u060c \u064a\u0635\u0627\u0628 \u0628\u0627\u0644\u0639\u0645\u0649 \u0645\u0631\u064a\u0636 \u0627\u0644\u0633\u0643\u0631\u064a.\n\n\u0646\u0639\u0645\u0629 \u0627\u0644\u0628\u0635\u0631 \u063a\u0627\u0644\u064a\u0629 \u0639\u0644\u064a\u0646\u0627\u060c   \u062f\u0642\u064a\u0642\u0629 \u0644\u0639\u064a\u0648\u0646\u0643 \u062a\u0633\u0627\u0639\u062f\u0643 \u0644\u062a\u0641\u0627\u062f\u064a \u0627\u0644\u062b\u0627\u0631 \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0648\u0628\u0627\u0621 \u0627\u0644\u0642\u0627\u062a\u0644":"Without prior warning signs, Diabetic patients become completely blind\n\nThe gift of sight is precious to us. A minute for your eyes will help you avoid the effects of this deadly pandemic ",o=A.hV(r,r,B.h,r,r,r,r,r,r,r,r,q?18:16,r,r,B.X,r,r,!0,r,r,r,r,r,r,r,r)
+$2(a,b){var s,r=null,q=b.a,p=q?"\u0628\u062f\u0648\u0646 \u0633\u0627\u0628\u0642 \u0627\u0646\u0630\u0627\u0631\u060c \u064a\u0635\u0627\u0628 \u0628\u0627\u0644\u0639\u0645\u0649 \u0645\u0631\u064a\u0636 \u0627\u0644\u0633\u0643\u0631\u064a.\n\n\u0646\u0639\u0645\u0629 \u0627\u0644\u0628\u0635\u0631 \u063a\u0627\u0644\u064a\u0629 \u0639\u0644\u064a\u0646\u0627\u060c   \u062f\u0642\u064a\u0642\u0629 \u0644\u0639\u064a\u0648\u0646\u0643 \u062a\u0633\u0627\u0639\u062f\u0643 \u0644\u062a\u0641\u0627\u062f\u064a \u0627\u0644\u0622\u062b\u0627\u0631 \u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u0648\u0628\u0627\u0621 \u0627\u0644\u0642\u0627\u062a\u0644":"Without prior warning signs, Diabetic patients become completely blind\n\nThe gift of sight is precious to us. A minute for your eyes will help you avoid the effects of this deadly pandemic ",o=A.hV(r,r,B.h,r,r,r,r,r,r,r,r,q?18:16,r,r,B.X,r,r,!0,r,r,r,r,r,r,r,r)
 q=p.length===0
 s=q?B.he:new A.iW(p)
 s=B.f.b_(3e4*(s.gq(s)+8))
@@ -71101,7 +71101,7 @@ B.IJ=new A.wR(2,"paint")
 B.bK=new A.wR(3,"layout")
 B.IK=new A.Hw(0,"raster")
 B.IL=new A.Hw(1,"picture")
-B.IM=new A.a1y(2,"high")
+B.IM=new A.a1y(5,"max")
 B.IN=new A.nB(0,"focusable")
 B.IO=new A.nB(1,"tappable")
 B.IP=new A.nB(2,"labelAndValue")
