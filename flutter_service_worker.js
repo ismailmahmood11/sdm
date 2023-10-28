@@ -18,7 +18,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "287863489e39d18f70d6ecc225c50cc9
 "assets/assets/images/social/twitter.svg": "6d846c0c7a822064286702d9e38b7c36",
 "assets/assets/images/social/x-logo.webp": "48659005983c94f1214746520f752554",
 "assets/assets/images/social/x-new.png": "731ca6ea0b499ddde2debea46099684e",
-"assets/assets/images/social/x.svg": "69b7e34b5ea981ab6ad9f4b7100406a6",
 "assets/assets/images/twitter.png": "a5b092e88f9c506d37412509f746e266",
 "assets/assets/logo/logo-2-transparent.png": "47507d04da51ca8e5e5a8680687f4ab8",
 "assets/assets/logo/logo-2.png": "93debb2789d520a0992af5eee0cba50e",
@@ -43,9 +42,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "287863489e39d18f70d6ecc225c50cc9
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a15302d36bb880ab5d613472296206be",
-"/": "a15302d36bb880ab5d613472296206be",
-"main.dart.js": "66334adf054e19e6f10f292bdb265aa3",
+"index.html": "27eb6d1b1c95985edc9f2de5a1075feb",
+"/": "27eb6d1b1c95985edc9f2de5a1075feb",
+"main.dart.js": "dbf91ef8244c76e02e813a9a3d3faa38",
 "manifest.json": "1218464056c6e6e0f7d31b9545161631",
 "version.json": "2968d7d27199afdf3ed97bc46519d4ef"};
 // The application shell files that are downloaded before a service worker can
